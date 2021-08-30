@@ -9,7 +9,7 @@ Docker Desktop คือ  โปรแกรมเอาไว้จัดกา
 โดย docker จะจำลอง environment ขึ้นมาบน WSL* (Windows Subsystems for Linux)
 อยากรู้หาอ่านเอง หรือถามเอาละกัน ค้านพิมพ์
 
-2. เปิด Powershell ขึ้นมา หน้าตามันสิเป็นจั่งซี่
+2. เปิด Powershell ขึ้นมา หน้าตามันสิเป็นจั่งซี่  Run as admin นะ
 ![image](https://user-images.githubusercontent.com/71694878/131340136-1a1f8751-a13a-4a08-973b-db28425bc4b4.png)
 ![image](https://user-images.githubusercontent.com/71694878/131340153-af033667-8e74-4ecb-81aa-597a291f317b.png)
 
