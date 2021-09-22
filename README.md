@@ -24,6 +24,8 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 ![image](https://user-images.githubusercontent.com/71694878/131340451-d9f537af-47b5-4496-be02-85c5d27c7092.png)
 
 
+4.5 Restart อีกทีได้ไหม  อีกแค่สักครั้งงง   ถ้าจำเป็นนะ
+
 5. Download ไฟล์นี้ แล้วติดตั้ง
 https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 ![image](https://user-images.githubusercontent.com/71694878/131340554-6a1991f0-e4b5-432e-a927-bd143b3b5234.png)
